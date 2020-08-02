@@ -1,1 +1,1 @@
-# Next.js_Blog
+# Next.js_Blog Example
