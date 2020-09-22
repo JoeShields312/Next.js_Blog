@@ -1,0 +1,13 @@
+diff --git a/node_modules/@fortawesome/fontawesome-svg-core/styles.css b/node_modules/@fortawesome/fontawesome-svg-core/styles.css
+index b991207..b6b32ad 100644
+--- a/node_modules/@fortawesome/fontawesome-svg-core/styles.css
++++ b/node_modules/@fortawesome/fontawesome-svg-core/styles.css
+@@ -168,7 +168,7 @@ svg:not(:root).svg-inline--fa {
+   font-size: 2em; }
+ 
+ .fa-3x {
+-  font-size: 3em; }
++  font-size: 2.75em; }
+ 
+ .fa-4x {
+   font-size: 4em; }
